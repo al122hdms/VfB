@@ -1,0 +1,58 @@
+﻿Codebuch VfB
+
+
+type
+Handelt es sich um eine Person oder um eine Organisation?
+0         =         Person
+1         =        Organisation
+
+
+age
+Wie alt sind die Personen?
+1         =        38 Jahre
+2        =        51 Jahre
+3         =         53 Jahre
+4         =         55 Jahre
+5         =         62 Jahre
+6         =        67 Jahre
+n/a        =        not available
+
+
+committee
+Sind sie Teil des Vorstands oder Teil des Aufsichtsrats des VfB?
+V         =         Vorstand
+AR         =         Aufsichtsrat
+n/a        =        not available
+
+
+representation
+Welche Funktion erfüllen die Mitglieder innerhalb der VfB Gremien?
+AD         =         Arbeitsdirektor
+E         =         Einkauf von Nichtproduktionsmaterial
+K         =         Kommunikation
+P         =         Präsident
+Pe         =         Personal
+S        =         Sport
+U         =         Unternehmensstrategie
+n/a        =        not available
+
+
+position
+Welche Position bekleiden die Mitglieder?
+ARM         =        Mitglied Aufsichtsrat
+ARV         =        Vorsitz Aufsichtsrat
+ARS         =        Stellvertretung Aufsichtsrat
+MG         =        Mitglied Geschäftsleitung
+VV         =        Vorsitz Vorstand
+n/a        =        not available
+
+
+duration
+Seit wann üben die Mitglieder diese Position aus?
+2014         =        Seit 2014 in seiner Position
+2015         =        Seit 2015 in seiner Position
+2016         =        Seit 2016 in seiner Position
+2017         =         Seit 2017 in seiner Position
+2019         =         Seit 2019 in seiner Position
+2020         =        Seit 2020 in seiner Position
+n/a        =        not available
