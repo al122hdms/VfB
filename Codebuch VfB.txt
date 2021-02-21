@@ -29,8 +29,8 @@ n/a        =        not available
 
 committee
 Sind sie Teil des Vorstands oder Teil des Aufsichtsrats des VfB?
-V         =         Vorstand
-AR         =         Aufsichtsrat
+1         =         Vorstand
+2         =         Aufsichtsrat
 n/a        =        not available
 
 
