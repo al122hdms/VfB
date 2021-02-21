@@ -27,13 +27,14 @@ n/a        =        not available
 
 representation
 Welche Funktion erfüllen die Mitglieder innerhalb der VfB Gremien?
-AD         =         Arbeitsdirektor
-E         =         Einkauf von Nichtproduktionsmaterial
-K         =         Kommunikation
-P         =         Präsident
-Pe         =         Personal
-S        =         Sport
-U         =         Unternehmensstrategie
+1         =         Arbeitsdirektor
+2         =         Einkauf von Nichtproduktionsmaterial
+3         =         Kommunikation
+4         =         Präsident
+5        =         Personal
+6        =         Sport
+7         =         Unternehmensstrategie
+8        =        Unterstützung im Aufsichtsrat
 n/a        =        not available
 
 
@@ -56,3 +57,11 @@ Seit wann üben die Mitglieder diese Position aus?
 2019         =         Seit 2019 in seiner Position
 2020         =        Seit 2020 in seiner Position
 n/a        =        not available
+
+
+Edgelist:
+
+
+relation
+1        =        Person ist Mitglied in Organisation
+2        =        Organisationen hängen zusammen
