@@ -1,4 +1,13 @@
 ﻿Codebuch VfB
+Nodelist:
+
+
+id
+Identifikation jedes Knotens
+
+
+name
+Name des Knotens
 
 
 type
@@ -62,6 +71,15 @@ n/a        =        not available
 Edgelist:
 
 
+from
+Entspricht der ID in der Nodelist, definiert den Sender
+
+
+to
+Entspricht der ID in der Nodelist, definiert den Sender
+
+
 relation
+Art der Verbindung
 1        =        Person ist Mitglied in Organisation
 2        =        Organisationen hängen zusammen
