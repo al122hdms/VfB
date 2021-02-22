@@ -49,11 +49,11 @@ n/a        =        not available
 
 position
 Welche Position bekleiden die Mitglieder?
-ARM         =        Mitglied Aufsichtsrat
-ARV         =        Vorsitz Aufsichtsrat
-ARS         =        Stellvertretung Aufsichtsrat
-MG         =        Mitglied Geschäftsleitung
-VV         =        Vorsitz Vorstand
+1         =        Mitglied Aufsichtsrat
+2        =        Vorsitz Aufsichtsrat
+3         =        Stellvertretung Aufsichtsrat
+4         =        Mitglied Geschäftsleitung
+5         =        Vorsitz Vorstand
 n/a        =        not available
 
 

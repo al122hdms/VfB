@@ -1,12 +1,12 @@
 id,name,type,age,committee,representation,position,duration
-th,Thomas Hitzlsperger,0,1,1,"3, 6, 7",VV,2019
-os,Oliver Schraft,0,3,1,3,MG,2015
-cv,Claus Vogt,0,2,2,4,ARV,2019
-wp,Wilfried Porth,0,5,2,"1, 2, 5",ARS,2014
-ra,Rainer Adrion,0,6,2,8,ARM,2020
-hj,Hartmut Jenner,0,4,2,8,ARS,2014
-fr,Franz Reiner,0,3,2,8,ARM,2016
-bs,Bertram Sugg,0,4,2,8,ARM,2017
+th,Thomas Hitzlsperger,0,1,1,"3, 6, 7",5,2019
+os,Oliver Schraft,0,3,1,3,4,2015
+cv,Claus Vogt,0,2,2,4,2,2019
+wp,Wilfried Porth,0,5,2,"1, 2, 5",3,2014
+ra,Rainer Adrion,0,6,2,8,1,2020
+hj,Hartmut Jenner,0,4,2,8,3,2014
+fr,Franz Reiner,0,3,2,8,1,2016
+bs,Bertram Sugg,0,4,2,8,1,2017
 vfbev,VfB Stuttgart e.V.,1,n/a,n/a,n/a,n/a,n/a
 vfbag,VfB Stuttgart AG,1,n/a,n/a,n/a,n/a,n/a
 fcg,Fanclub Courage Gerlingen,1,n/a,n/a,n/a,n/a,n/a
